@@ -40,6 +40,7 @@ This is a simple CRUD operation project for managing tasks. The system uses Lara
     - DB_DATABASE=db_name
     - DB_USERNAME=db_username
     - DB_PASSWORD=db_password
+    - run `php artisan key:generate`
     - run `php artisan migrate`
 
 
